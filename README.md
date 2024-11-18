@@ -1,2 +1,15 @@
-# udemigWebsite
-# udemigWebsite
+<h1>Udemig Akademi Web Arayüzü:</h1>
+
+Bu proje, Udemig Akademi için tamamen HTML ve CSS kullanılarak oluşturulmuş modern ve kullanıcı dostu bir web arayüzü tasarımıdır. Proje, temel web tasarımı ilkelerine dayalı olarak, kullanıcılarının rahatlıkla etkileşime girebileceği bir deneyim sunmayı amaçlamaktadır.
+
+Tasarımda kullanılan renk paleti ve stil, Udemig Akademi'nin öğretici ve profesyonel atmosferine uygun olarak seçilmiş olup, aynı zamanda modern bir görünüm elde edilmiştir. Proje, responsive (duyarlı) özellikleriyle her türlü ekran boyutunda kusursuz bir kullanıcı deneyimi sağlar.
+
+<h2>Kullanılan Teknolojiler:</h2>
+
+HTML ve CSS ile İnşa Edildi: Temel web teknolojilerini kullanarak eğitim amaçlı geliştirilen bu tasarım, becerilerimi geliştirme sürecimde oluşturduğum pratik bir örnektir.
+
+<h2>Özellikler:</h2>
+
+*Duyarlı Tasarım (Responsive Design): Mobil, tablet ve masaüstü cihazlarda kusursuz görünüm ve kullanım.
+*Modern ve Şık Tasarım: Basit, temiz ve kullanıcı dostu arayüz, kullanıcı etkileşimini artırmak için optimize edilmiştir.
+\*Udemig Akamedi Temasına Uygun: Udemig'nin eğitim odaklı ve profesyonel atmosferini yansıtan renk ve stil seçimleri.
