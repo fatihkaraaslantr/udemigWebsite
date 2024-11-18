@@ -21,4 +21,4 @@ Udemig Akamedi Temasına Uygun: Udemig'in eğitim odaklı ve profesyonel atmosfe
 
 <h2>Ekran Görüntüsü</h2>
 
-![](./image/project.gif)
+![](./image/myProject.gif)
