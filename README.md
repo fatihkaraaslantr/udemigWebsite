@@ -18,3 +18,7 @@ Duyarlı Tasarım (Responsive Design): Mobil, tablet ve masaüstü cihazlarda ku
 
 Modern ve Şık Tasarım: Basit, temiz ve kullanıcı dostu arayüz, kullanıcı etkileşimini artırmak için optimize edilmiştir.
 Udemig Akamedi Temasına Uygun: Udemig'in eğitim odaklı ve profesyonel atmosferini yansıtan renk ve stil seçimleri.
+
+<h2>Ekran Görüntüsü</h2>
+
+![](./image/project.gif)
