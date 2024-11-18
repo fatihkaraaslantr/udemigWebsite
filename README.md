@@ -10,6 +10,6 @@ HTML ve CSS ile İnşa Edildi: Temel web teknolojilerini kullanarak eğitim ama�
 
 <h2>Özellikler:</h2>
 
-*Duyarlı Tasarım (Responsive Design): Mobil, tablet ve masaüstü cihazlarda kusursuz görünüm ve kullanım.
-*Modern ve Şık Tasarım: Basit, temiz ve kullanıcı dostu arayüz, kullanıcı etkileşimini artırmak için optimize edilmiştir.
-\*Udemig Akamedi Temasına Uygun: Udemig'nin eğitim odaklı ve profesyonel atmosferini yansıtan renk ve stil seçimleri.
+Duyarlı Tasarım (Responsive Design): Mobil, tablet ve masaüstü cihazlarda kusursuz görünüm ve kullanım.
+Modern ve Şık Tasarım: Basit, temiz ve kullanıcı dostu arayüz, kullanıcı etkileşimini artırmak için optimize edilmiştir.
+Udemig Akamedi Temasına Uygun: Udemig'nin eğitim odaklı ve profesyonel atmosferini yansıtan renk ve stil seçimleri.
