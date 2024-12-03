@@ -1,4 +1,4 @@
-<h1>🚀Udemig Akademi Web Arayüzü</h1>
+<h1>🚀Udemig Akademi Web Site Arayüzü</h1>
 
 Bu proje, Udemig Akademi için oluşturulmuş modern ve kullanıcı dostu bir web arayüzü tasarımıdır. Proje, temel web tasarımı ilkelerine dayalı olarak, kullanıcılarının rahatlıkla etkileşime girebileceği bir deneyim sunmayı amaçlamaktadır.
 
